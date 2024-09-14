@@ -1,1 +1,1 @@
-# Finance-Analytics
+# Financial-Analytics
